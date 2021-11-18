@@ -10,6 +10,7 @@ def main():
     print('And I change it every day')
     my_superfunction()
     print(1)
+    print(2)
 
 
 if __name__ == '__main__':
